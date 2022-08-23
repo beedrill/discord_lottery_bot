@@ -1,0 +1,18 @@
+{
+    "name": "活动抽中级奖池",
+    "desc": "中级奖池专属指令",
+    "dist": [
+      {"value": "666", "weight": 65},
+      {"value": "1000钻石", "weight": 20},
+      {"value": "要豹豹", "weight": 5},
+      {"value": "2000钻石", "weight": 4},
+      {"value": "表白位两周", "weight": 3},
+      {"value": "一个月无限人自定义TAG", "weight": 1},
+      {"value": "一个月单人单独显示TAG", "weight": 1},
+      {"value": "半日冠", "weight": 1}
+    ],
+    "resultsFormat": {
+      "prefix": "本次抽奖结果为：\n",
+      "suffix": "\n感谢抽中级奖池"
+    }
+  }

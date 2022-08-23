@@ -1,0 +1,20 @@
+{
+    "name": "活动抽高级奖池",
+    "desc": "高级奖池专属指令",
+    "dist": [
+      {"value": "要豹豹", "weight": 60},
+      {"value": "2000钻石", "weight": 13},
+      {"value": "3000钻石", "weight": 10},
+      {"value": "5000钻石", "weight": 8},
+      {"value": "绿帽子", "weight": 2},
+      {"value": "表白位1月x3", "weight": 1},
+      {"value": "半日冠", "weight": 2},
+      {"value": "一个月5人单独显示TAG", "weight": 1},
+      {"value": "日冠名", "weight": 1}
+    ],
+    "resultsFormat": {
+      "prefix": "本次抽奖结果为：\n",
+      "suffix": "\n感谢抽高级奖池"
+    }
+  }
+  

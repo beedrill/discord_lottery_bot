@@ -1,0 +1,16 @@
+{
+  "name": "活动抽字",
+  "desc": "活动抽字专属指令",
+  "dist": [
+    {"value": "好", "weight": 35},
+    {"value": "学", "weight": 25},
+    {"value": "习", "weight": 15},
+    {"value": "天", "weight": 19},
+    {"value": "向", "weight": 5},
+    {"value": "上", "weight": 1}
+  ],
+  "resultsFormat": {
+    "prefix": "本次抽字结果为：\n",
+    "suffix": "\n感谢抽字"
+  }
+}

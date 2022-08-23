@@ -1,0 +1,15 @@
+{
+  "name": "活动抽初级奖池",
+  "desc": "初级奖池专属指令",
+  "dist": [
+    {"value": "流星雨", "weight": 50},
+    {"value": "200钻石", "weight": 30},
+    {"value": "500钻石", "weight": 18},
+    {"value": "666", "weight": 1},
+    {"value": "表白位3天", "weight": 1}
+  ],
+  "resultsFormat": {
+    "prefix": "本次抽奖结果为：\n",
+    "suffix": "\n感谢抽初级奖池"
+  }
+}
