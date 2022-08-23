@@ -1,6 +1,6 @@
 // Require the necessary discord.js classes
 const { Client, Collection, GatewayIntentBits } = require('discord.js');
-const { token } = require('./config.json');
+const { token, channelId } = require('./config.json');
 const fs = require('node:fs');
 const path = require('node:path');
 
@@ -26,7 +26,10 @@ client.once('ready', () => {
 
 client.on('interactionCreate', async interaction => {
 	if (!interaction.isChatInputCommand()) return;
-
+	if (interaction.channelId !== channelId) {
+		await interaction.reply({ content: '您不能在该频道使用该命令！', ephemeral: true });
+	    return
+	}
 	const command = client.commands.get(interaction.commandName);
 
 	if (!command) return;

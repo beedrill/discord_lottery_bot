@@ -10,7 +10,8 @@ create a `config.json` file in the root folder with your bot token and clientId(
 ```json
 {
 	"token": "********************************************************",
-    "clientId": "******************"
+    "clientId": "******************",
+    "channelId": "******************"
 }
 
 ```
