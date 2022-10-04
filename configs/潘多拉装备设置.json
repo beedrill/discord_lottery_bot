@@ -8,7 +8,7 @@
             "price": 6,
             "diamond": 600
         },
-        "weight": 60
+        "weight": 73.5
       },
       {
         "value": {
@@ -16,7 +16,7 @@
             "price": 8,
             "diamond": 800
         },
-        "weight": 30
+        "weight": 18
       },
       {
         "value": {
@@ -24,7 +24,7 @@
             "price": 12,
             "diamond": 1200
         },
-        "weight": 6
+        "weight": 4
       },
       {
         "value": {
@@ -32,7 +32,7 @@
             "price": 26,
             "diamond": 2600
         },
-        "weight": 2
+        "weight": 3
       },
       {
         "value": {
@@ -40,15 +40,7 @@
             "price": 52,
             "diamond": 5200
         },
-        "weight": 1
-      },
-      {
-        "value": {
-            "name": "红豆鲷鱼烧",
-            "price": 88,
-            "diamond": 8800
-        },
-        "weight": 1
+        "weight": 1.5
       }
     ],
     "resultsFormat": {
