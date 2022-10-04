@@ -1,0 +1,67 @@
+{
+    "name": "潘多拉备战席抽奖券",
+    "desc": "潘多拉备战席抽奖券指令",
+    "dropProb": 0.3,
+    "dist": [
+      {
+        "value": {
+            "name": "甜瓜饼干",
+            "price": 6,
+            "diamond": 600
+        },
+        "weight": 13
+      },
+      {
+        "value": {
+            "name": "仙贝",
+            "price": 8,
+            "diamond": 800
+        },
+        "weight": 32
+      },
+      {
+        "value": {
+            "name": "长崎蛋糕",
+            "price": 12,
+            "diamond": 1200
+        },
+        "weight": 40
+      },
+      {
+        "value": {
+            "name": "团子",
+            "price": 26,
+            "diamond": 2600
+        },
+        "weight": 10
+      },
+      {
+        "value": {
+            "name": "羊羹",
+            "price": 52,
+            "diamond": 5200
+        },
+        "weight": 2
+      },
+      {
+        "value": {
+            "name": "红豆鲷鱼烧",
+            "price": 88,
+            "diamond": 8800
+        },
+        "weight": 1
+      },
+      {
+        "value": {
+            "name": "有个樱桃布丁",
+            "price": 66,
+            "diamond": 6600
+        },
+        "weight": 2
+      }
+    ],
+    "resultsFormat": {
+      "prefix": "本次潘多拉的备战席抽奖结果为：\n",
+      "suffix": "\n承蒙您的厚爱"
+    }
+  }
